@@ -4,5 +4,5 @@
 // 둘 다 오즈 패널·ESP32에 넣은 값과 같음. device_key는 절대 넣지 말 것 (이 파일은 누구나 볼 수 있음)
 window.TEAMPL_SUPABASE = {
   url: 'https://bvkpijllrxxfdfdqgcxm.supabase.co',
-  key: sb_publishable_8T8n072o4fF2OppMVCD_pg_u54zb2x8'
+  key: 'sb_publishable_8T8n072o4fF2OppMVCD_pg_u54zb2x8'
 };
